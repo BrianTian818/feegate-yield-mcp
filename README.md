@@ -63,7 +63,7 @@ No `npm install` needed — plain Node.js, zero dependencies.
 
 - **x402 v2** payment protocol — HTTP `402 Payment Required` + USDC on Base mainnet (EIP-3009, gas sponsored)
 - **No accounts, no API keys, no subscriptions** — one HTTP round trip per micropayment
-- MCP Registry listed (`org.feegate`), runs on the protocol it sells: [feegate.org/mcp](https://feegate.org/mcp)
+- Listed in the official MCP Registry as `io.github.BrianTian818/feegate-yield-mcp` ([registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io/)); the paid marketplace it complements runs at [feegate.org/mcp](https://feegate.org/mcp)
 - 20 free self-serve tools (endpoint health check, pricing calculator, GEO generator, launch checklist): [feegate.org](https://feegate.org)
 
 This MCP server is free forever. If your agent needs data beyond DeFi yields — market data, research, rankings, monitoring — that's what [Feegate](https://feegate.org) sells, per call, in USDC.
