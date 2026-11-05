@@ -1,0 +1,9 @@
+# Smithery registry config — https://smithery.ai
+# Enables Smithery's public MCP registry to index this server.
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties: {}
+  commandFunction: |-
+    (config) => ({ "command": "node", "args": ["index.js"] })
