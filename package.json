@@ -1,0 +1,20 @@
+{
+  "name": "feegate-yield-mcp",
+  "version": "1.0.0",
+  "description": "Free open-source MCP server for DeFi yield data (DefiLlama pools) - search APY/TVL across 60+ chains. Brought to you by Feegate (https://feegate.org).",
+  "bin": { "feegate-yield-mcp": "./index.js" },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/smoke.js"
+  },
+  "engines": { "node": ">=18.0.0" },
+  "keywords": ["mcp", "defi", "yield", "apy", "defillama", "ai-agent", "model-context-protocol", "feegate"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianTian818/feegate-yield-mcp"
+  },
+  "homepage": "https://feegate.org",
+  "funding": { "type": "custom", "url": "https://feegate.org" }
+}
