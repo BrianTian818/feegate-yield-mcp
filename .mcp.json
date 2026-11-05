@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "feegate-yield": {
+      "command": "node",
+      "args": ["index.js"]
+    }
+  }
+}
