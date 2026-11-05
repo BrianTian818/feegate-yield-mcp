@@ -1,0 +1,11 @@
+{
+  "name": "feegate-yield-mcp",
+  "version": "1.0.0",
+  "description": "Free DeFi yield data (APY/TVL) for 60+ chains and 10,000+ pools via DefiLlama. Zero dependencies, MIT licensed.",
+  "author": {
+    "name": "Feegate"
+  },
+  "homepage": "https://feegate.org",
+  "repository": "https://github.com/BrianTian818/feegate-yield-mcp",
+  "license": "MIT"
+}
